@@ -1,37 +1,35 @@
-📌 Project Overview
+Project Overview
+This project analyzes hotel booking and cancellation data using Microsoft Excel to understand customer behavior, booking patterns, and key factors leading to booking cancellations. The dashboard provides clear insights to help hotels reduce cancellations and improve revenue management.
 
-This project focuses on analyzing hotel booking data to understand why customers cancel bookings. Using Excel-based analysis, the project identifies trends and patterns that impact hotel revenue and occupancy
+Tools Used
+•	Microsoft Excel  
+•	Pivot Tables  
+•	Pivot Charts  
+•	Slicers (Year & Month)  
+•	Data Cleaning & Formatting  
 
-🛠 Tools Used
+ Key KPIs
+•	Total Bookings  
+•	Total Cancellations  
+ 
+Analysis Performed
+•	Comparison of bookings and cancellations for City Hotel and Resort Hotel  
+•	Guest type analysis (Couple, Family, Single) to identify cancellation behavior  
+•	Room type preference analysis (Desired vs Undesired)  
+•	Month-wise and year-wise booking trends using slicers  
+•	Seasonal impact on booking and cancellation patterns  
 
-1.Microsoft Excel
-2.Pivot Tables
-3.Excel Charts
-4.Slicers
-5.Data Cleaning & Filtering(Power Query)
+Key Insights
+•	City Hotels receive higher bookings and cancellations compared to Resort Hotels  
+•	Couple travelers show the highest cancellation rate  
+•	Desired room types experience more cancellations  
+•	Peak seasons show increased booking volatility  
 
-📂 Dataset
+Business Value
+•	Helps hotels identify high-risk booking segments  
+•	Supports better room allocation and booking policies  
+•	Improves revenue and occupancy planning  
+•	Enables data-driven decision-making using Excel dashboards 
+Conclusion
+This Excel dashboard provides a clear and interactive view of hotel booking and cancellation behavior. It supports business users in understanding trends, reducing cancellations, and improving overall hotel performance.
 
-Hotel booking dataset containing customer details, booking status, lead time, room type, booking channel, and cancellation status.
-
-📈 KPIs (Key Performance Indicators)
-
-1.Total Bookings
-2.Total Cancellations
-3.Cancellation Rate (%)
-4.Average Lead Time
-5.Revenue Impact due to Cancellations
-
-💡 Business Insights
-
-1.Higher lead time bookings have a higher chance of cancellation
-2.Online booking channels show more cancellations compared to offline
-3.Certain room types have higher cancellation rates
-4.Peak seasons experience more booking volatility
-
-✅ Business Value
-
-1.Helps hotels reduce cancellation rates
-2.Improves revenue forecasting
-3.Supports better inventory and pricing strategies
-4.Assists management in decision-making
